@@ -9,3 +9,9 @@ h3
 {
     color: darkgray;
 }
+
+img{
+    height: 1000px;
+    width: 500px;
+    border-radius: 2%;
+}
